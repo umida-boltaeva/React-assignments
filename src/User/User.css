@@ -1,0 +1,18 @@
+.output {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.input {
+    margin: auto 0;
+    text-align: center;
+}
+ input {
+     padding: 10px;
+     border: 2px solid gray;
+     border-radius: 3px;
+ }
